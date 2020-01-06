@@ -1,1 +1,1 @@
-Just a small portion of 60+ games that consist only of IPS patches
+Just a small portion of 60+ games. Repo consists only of IPS patches
